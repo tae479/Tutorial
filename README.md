@@ -1,7 +1,7 @@
-YOUR NAME
+YOUR NAME Tae
  
 Brief introduction
  
-Role in project: (e.g. team leader, assignment uploader, programmer, etc)
+Role in project:  programmer
  
-Preferred branch of engineering: (e.g. civil, mechanical, etc)
+Preferred branch of engineering: civil
